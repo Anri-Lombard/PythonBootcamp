@@ -1,0 +1,19 @@
+Functions can allow input.
+Parameter is the assigned variable to the actual data whereas the argument is the actual data,
+(eg.
+someone = "Anri"  --> Parameter is someone and argument is "Anri."
+greet(someone)
+)
+
+POSITIONAL AND KEYWORD FUNCTIONS
+Positional:
+    def greet(name, location):
+        ...
+
+    greet("anri", "cape town")
+
+Keyword:
+    def greet(name, location)
+        ...
+
+    greet(location="cape town", name="anri")

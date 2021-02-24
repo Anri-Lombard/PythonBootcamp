@@ -1,0 +1,20 @@
+Procedural programming:
+    Somewhat confusing and spaghetti-like as code is read top to bottom while jumping
+    into functions when it needs to. (Fortran and COBOL - old. But now relationships
+    are more confusing)
+
+Solution: Object-orientated programming (OOP)
+        Break down complex projects into more simple and smaller modules.
+        Modules are reusable for different projects.
+        Each module can be worked on by seperate teams and people.
+        OOP is like the manager that directs different employees.
+
+        How to use OOP:
+            module:
+                what it HAS (attributes -> variables)
+                what it DOES (methods -> functions)
+            blueprint (class):
+                multiple versions (object)
+                (eg. car = CarBluePrint()
+                    car = object
+                    CarBluePrint() = class

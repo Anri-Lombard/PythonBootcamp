@@ -1,0 +1,14 @@
+The 'a' is for append, 'r' is for read, and 'w' is for write.
+If file does not exist, a new one will be created.
+
+Directory:
+    Absolute file path:
+        /Work/Project/talk.ppt
+    Relative file path:
+        File in working directory: ./talk.ppt or talk.ppt
+    Working directory: The directory you are currently in.
+        File outside working directory: ../report.ppt
+        2 files outside working directory: ../../desktop
+
+
+Best programming style: one that others will understand.

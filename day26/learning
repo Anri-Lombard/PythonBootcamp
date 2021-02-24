@@ -1,0 +1,7 @@
+List comprehension:
+    new_list = [new_item for item in list]
+Conditional list comprehension:
+    new_list = [new_item for item in list if condition]
+
+Dictionary comprehension.
+Conditional dictionary comprehension.

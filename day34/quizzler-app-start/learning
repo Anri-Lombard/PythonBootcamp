@@ -1,0 +1,6 @@
+Types and type hints:
+    get_integer(number: int) -> int:
+        ...
+        return chosen_number
+
+    the -> is a 'type hint' that indicates what type needs to be returned.

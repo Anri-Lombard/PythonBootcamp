@@ -1,0 +1,16 @@
+API: Application Programming interface
+    API request and API endpoint
+        Sometimes you could request simple data from an API (like asking the time at a bank),
+        but other times I need permission (getting money from the bank).
+
+    JSON
+        compressed to not use much data.
+
+
+Codes:
+    1XX: Hold On
+    2XX: Here You Go
+    3XX: Go Away
+    4XX: You Screwed Up
+    5XX: Server Screwed Up
+    .raise_for_status() tells you the problem.

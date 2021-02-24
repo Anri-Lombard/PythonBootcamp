@@ -1,0 +1,4 @@
+Passing functions as fucntions:
+    function_1(function_2)
+    Note: there are no brackets at the end of function_2.
+    Called HIGHER ORDER FUNCTIONS.

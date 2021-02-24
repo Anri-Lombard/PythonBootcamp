@@ -1,0 +1,9 @@
+Global scope:
+    Variable declared outside of function and can be used throughout file.
+Local scope:
+    Variable not declared outside of function and only useful to that particular function.
+    To modify global variables I could just
+NO block scope in python:
+    If variable indented in if or while it is still globally accesable.
+Global CONSTANTS:
+    Global constants are all UPPER CASE so we can use it as global and not shange it.

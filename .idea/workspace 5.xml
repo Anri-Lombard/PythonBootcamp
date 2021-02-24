@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2b92b00-77ee-49b7-9a16-d83ffffcf0ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1mUysyaIdRX8VwYZHqcF0k8IF6A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2b92b00-77ee-49b7-9a16-d83ffffcf0ff" name="Default Changelist" comment="" />
+      <created>1609562676946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609562676946</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="469" y="257" key="#Notifications" timestamp="1609562770527">
+      <screen x="0" y="25" width="1440" height="813" />
+    </state>
+    <state x="469" y="257" key="#Notifications/0.25.1440.813@0.25.1440.813" timestamp="1609562770527" />
+    <state x="408" y="169" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1609562870120">
+      <screen x="0" y="25" width="1440" height="813" />
+    </state>
+    <state x="408" y="169" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.25.1440.813@0.25.1440.813" timestamp="1609562870120" />
+    <state x="385" y="162" width="670" height="676" key="search.everywhere.popup" timestamp="1609562825460">
+      <screen x="0" y="25" width="1440" height="813" />
+    </state>
+    <state x="385" y="162" width="670" height="676" key="search.everywhere.popup/0.25.1440.813@0.25.1440.813" timestamp="1609562825460" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+Error handling structure in python:
+    try
+    except
+    else
+    finally (not often used)
+
+Raise errors:
+    For incorrect input, for example.
+
+JSON:
+    write: json.dump()
+    read: json.load()
+    update: json.update()
